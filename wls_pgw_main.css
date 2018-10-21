@@ -58,6 +58,21 @@ form[action="add/"] button{
     background-color: #202225
 }
 
-link {
+a:link {
     color: white;
+}
+
+/* visited link */
+a:visited {
+    color: white;
+}
+
+/* mouse over link */
+a:hover {
+    color: #e74c3b;
+}
+
+/* selected link */
+a:active {
+    color: #962518;
 }
