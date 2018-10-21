@@ -38,9 +38,7 @@ input[type=submit] {
 
 
 p img {
-  inline-size: 1.5%;
-  align-content: center;
-  max-width: 100px;
+  inline-size: 2%;
   vertical-align: middle;
   
   
@@ -58,4 +56,8 @@ form[action="add/"] button{
     border-radius: 4px;
     color: grey;
     background-color: #202225
+}
+
+link {
+    color: white;
 }
