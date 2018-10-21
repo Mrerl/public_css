@@ -1,0 +1,43 @@
+body {
+ font-family: verdana;
+ font-size: 20px;
+ background-color: #202225;
+ color: white;
+ 
+}
+
+h1 {
+  color: #e74c3b;
+  text-align: center;
+}
+h2 {
+  color: #962518;
+  text-align: center;
+  
+}
+
+button {
+  background-color: #202225;
+  color: white;
+  border: 2px solid #e74c3b;
+  border-radius: 4px;
+  
+}
+input[type=text] {
+    border: 2px solid #e74c3b;
+    border-radius: 4px;
+    background-color: #202225;
+    color: white
+}
+input[type=submit] {
+    border: 2px solid #e74c3b;
+    border-radius: 4px;
+    color: white;
+    background-color: #202225
+}
+
+
+p img {
+  inline-size: 1.5%;
+  align-content: center;
+}
